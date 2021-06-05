@@ -25,7 +25,13 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
 
-Shaders also are used to create different artstyle way more easier. For example games like Borderlands use shaders to give all the 3D objects some outline or "border" without using dedicated materials to this artstyle. Another example is cel-shading that can be seen in cartoony and stylish games like The Legend of Zelda : Windwaker or Breath of the wild, with this technique lighting gradient can be discretized to make the shadows look cartoony.
+Shaders also are used to create different artstyle way more easier. For example games like Borderlands use shaders to give all the 3D objects some outline or "border" without using dedicated materials to this artstyle.
+
+![Borderlands Artstyle](https://github.com/URAmiRBin/shady-balls/images/borderlands.jpg)
+
+Another example is cel-shading that can be seen in cartoony and stylish games like The Legend of Zelda : Windwaker or Breath of the wild, with this technique lighting gradient can be discretized to make the shadows look cartoony.
+
+![The Legend of Zelda : Wind Waker Artstyle](https://github.com/URAmiRBin/shady-balls/images/zelda-ww.jpg)
 
 
 ## TODO
