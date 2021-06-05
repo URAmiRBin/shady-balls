@@ -12,7 +12,15 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Shader) shaders are
 
 WOW that's way too wikipedia, but let's take the computer program part and start over.
 
-Shaders are computer programs (or simply codes) that are meant to be run on graphics cards to do rendering calculations such as lighting, but hell, we are human and we can use it for whatever we want, such as moving scenes, water depth, weapon scope effect, force fields or even some shiny balls.
+Shaders are computer programs (or simply codes) that are meant to be run on graphics cards to do rendering calculations such as lighting, but hell, we are human and we can use it for whatever we want, such as:
+
+- moving scenes
+- water depth
+- wave effect
+- weapon scope effect
+- interior mapping
+- force fields
+- moving grass effects
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
