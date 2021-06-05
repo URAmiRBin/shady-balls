@@ -37,7 +37,7 @@ The Legend of Zelda: Wind Waker Artstyle (Credit: zeldauniverse.net)
 
 
 ## TODO
-- [ ] What are shaders
+- [x] What are shaders
 - [ ] What are materials
 - [ ] How shaders work in Unity
 - [ ] Shader types
