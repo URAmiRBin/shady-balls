@@ -27,11 +27,11 @@ With parallel programming the graphic cards with their enough small "cores" can 
 
 Shaders also are used to create different artstyle way more easier. For example games like Borderlands use shaders to give all the 3D objects some outline or "border" without using dedicated materials to this artstyle.
 
-![Borderlands Artstyle](https://github.com/URAmiRBin/shady-balls/images/borderlands.jpg)
+![Borderlands Artstyle](https://github.com/URAmiRBin/shady-balls/blob/main/images/borderlands.jpg)
 
 Another example is cel-shading that can be seen in cartoony and stylish games like The Legend of Zelda : Windwaker or Breath of the wild, with this technique lighting gradient can be discretized to make the shadows look cartoony.
 
-![The Legend of Zelda : Wind Waker Artstyle](https://github.com/URAmiRBin/shady-balls/images/zelda-ww.jpg)
+![The Legend of Zelda : Wind Waker Artstyle](https://github.com/URAmiRBin/shady-balls/blob/main/images/zelda-ww.jpg)
 
 
 ## TODO
