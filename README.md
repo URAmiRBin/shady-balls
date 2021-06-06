@@ -62,10 +62,11 @@ So each pixel knows its' position and it's material and the shader runs on each 
 
 ## TODO
 - [x] What are shaders
-- [ ] What are materials
+- [x] What are materials
 - [ ] How shaders work in Unity
 - [ ] Shader types
 - [ ] Simple .shader breakdown
+- [ ] Simple tint example
 - [ ] Unity built-in variables
 - [ ] It's All about matrices
 - [ ] Let's shade a ball
