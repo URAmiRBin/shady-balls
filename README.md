@@ -21,6 +21,7 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 - interior mapping
 - force fields
 - moving grass effects
+- booze
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
