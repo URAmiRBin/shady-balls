@@ -2,6 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
+    - [What are shaders](#What%20are%20shaders)
+    - [What are materials](#What%20are%20materials)
 
 
 ## Introduction
@@ -52,10 +54,10 @@ For example shaders can have these properties and each material which uses that 
 
 Some complex shaders even use more advanced properties like IOR (index of refraction) for translucent objects.
 
-So in general shaders have two types of data:
+So in general shaders use two types of data:
 
-1. The material which is the properties or variables that they need.
-2. The position of a pixel, this is the data that the shader knows for itself and it doesn't need to be feed into.
+1. The **material** which is the properties or variables that they need.
+2. The **position** of a pixel, this is the data that the shader knows for itself and it doesn't need to be feed into. This is the data that shaders knows on its' own.
 
 So each pixel knows its' position and it's material and the shader runs on each pixel (this is not just a simple foreach, it's parallel) and outputs a color, this is the color we see in our game.
 
