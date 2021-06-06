@@ -37,6 +37,29 @@ Another example is cel-shading that can be seen in cartoony and stylish games li
 The Legend of Zelda: Wind Waker Artstyle (Credit: zeldauniverse.net)
 
 
+### What are materials
+
+Like any other computer programs, shaders can have inputs, these inputs are simply the materials we always use in Unity. In Unity each material is connected to a shader and each material can have some properties that shader needs.
+
+For example shaders can have these properties and each material which uses that shader should have a value for that property:
+
+- Color
+- Texture
+- Normal map
+- Glossiness
+- Metalicness
+- Scroll speed
+
+Some complex shaders even use more advanced properties like IOR (index of refraction) for translucent objects.
+
+So in general shaders have two types of data:
+
+1. The material which is the properties or variables that they need.
+2. The position of a pixel, this is the data that the shader knows for itself and it doesn't need to be feed into.
+
+So each pixel knows its' position and it's material and the shader runs on each pixel (this is not just a simple foreach, it's parallel) and outputs a color, this is the color we see in our game.
+
+
 ## TODO
 - [x] What are shaders
 - [ ] What are materials
