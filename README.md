@@ -24,6 +24,7 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 - force fields
 - moving grass effects
 - booze
+- curvy roads
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
@@ -64,6 +65,7 @@ So each pixel knows its' position and it's material and the shader runs on each 
 
 ## TODO
 - [x] What are shaders
+- [ ] Shader example reference/visualization
 - [x] What are materials
 - [ ] How shaders work in Unity
 - [ ] Shader types
