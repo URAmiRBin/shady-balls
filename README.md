@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-    - [What are shaders](#What%20are%20shaders)
-    - [What are materials](#What%20are%20materials)
+    - [What are shaders](#What-are-shaders)
+    - [What are materials](#What-are-materials)
 
 
 ## Introduction
