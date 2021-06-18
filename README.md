@@ -18,13 +18,13 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 
 - moving scenes
 - water depth
-- wave effect
-- weapon scope effect
-- interior mapping
-- force fields
-- moving grass effects
-- booze
-- curvy roads
+- [wave effect](https://catlikecoding.com/unity/tutorials/flow/waves/)
+- [weapon scope effect](https://www.reddit.com/r/Unity3D/comments/h7fnze/managed_to_implement_a_nice_dual_render_scope/)
+- [interior mapping](https://www.youtube.com/watch?v=dUjNoIxQXAA&ab_channel=GameDevGuide)
+- [force fields](https://www.youtube.com/watch?v=NiOGWZXBg4Y&ab_channel=Brackeys)
+- [moving grass effects](https://roystan.net/articles/grass-shader.html)
+- [booze](https://www.youtube.com/watch?v=8kQW2jFPYZo&ab_channel=2kliksphilip)
+- [curvy roads](https://assetstore.unity.com/packages/vfx/shaders/curved-world-2020-173251)
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
@@ -65,7 +65,8 @@ So each pixel knows its' position and it's material and the shader runs on each 
 
 ## TODO
 - [x] What are shaders
-- [ ] Shader example reference/visualization
+- [x] Shader example reference
+- [ ] Shader example visualization
 - [x] What are materials
 - [ ] How shaders work in Unity
 - [ ] Shader types
