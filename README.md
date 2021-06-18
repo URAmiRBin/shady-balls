@@ -19,13 +19,27 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 - moving scenes
 - water depth
 - [wave effect](https://catlikecoding.com/unity/tutorials/flow/waves/)
+<img src="images/wave.gif" width="400">
+
 - [weapon scope effect](https://www.reddit.com/r/Unity3D/comments/h7fnze/managed_to_implement_a_nice_dual_render_scope/)
+<img src="images/scope.gif" width="400">
+
 - [interior mapping](http://christopher-harper.com/project/interior-mapping/)
+<img src="images/interior-mapping.gif" width="400">
+
 - [force fields](https://www.youtube.com/watch?v=NiOGWZXBg4Y&ab_channel=Brackeys)
 - [moving grass effects](https://roystan.net/articles/grass-shader.html)
+<img src="images/grass.gif" width="400">
+
 - [booze](https://www.youtube.com/watch?v=8kQW2jFPYZo&ab_channel=2kliksphilip)
+<img src="images/booze.gif" width="400">
+
 - [curvy roads](https://assetstore.unity.com/packages/vfx/shaders/curved-world-2020-173251)
+<img src="images/curve-world.gif" width="400">
+
 - [heat distortion effect](https://lindenreid.wordpress.com/2018/03/05/heat-distortion-shader-tutorial/)
+<img src="images/heat.gif" width="400">
+
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
