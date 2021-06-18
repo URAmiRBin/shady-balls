@@ -20,7 +20,7 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 - water depth
 - [wave effect](https://catlikecoding.com/unity/tutorials/flow/waves/)
 - [weapon scope effect](https://www.reddit.com/r/Unity3D/comments/h7fnze/managed_to_implement_a_nice_dual_render_scope/)
-- [interior mapping](https://www.youtube.com/watch?v=dUjNoIxQXAA&ab_channel=GameDevGuide)
+- [interior mapping](http://christopher-harper.com/project/interior-mapping/)
 - [force fields](https://www.youtube.com/watch?v=NiOGWZXBg4Y&ab_channel=Brackeys)
 - [moving grass effects](https://roystan.net/articles/grass-shader.html)
 - [booze](https://www.youtube.com/watch?v=8kQW2jFPYZo&ab_channel=2kliksphilip)
