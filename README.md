@@ -25,6 +25,7 @@ Shaders are computer programs (or simply codes) that are meant to be run on grap
 - [moving grass effects](https://roystan.net/articles/grass-shader.html)
 - [booze](https://www.youtube.com/watch?v=8kQW2jFPYZo&ab_channel=2kliksphilip)
 - [curvy roads](https://assetstore.unity.com/packages/vfx/shaders/curved-world-2020-173251)
+- [heat distortion effect](https://lindenreid.wordpress.com/2018/03/05/heat-distortion-shader-tutorial/)
 
 Graphics cards architecture has the power of parallel computations which makes it an ideal hardware to run graphics programs on, since every pixel needs to be rendered in each frame.
 With parallel programming the graphic cards with their enough small "cores" can run shaders (single instruction) for each pixel (multiple data) to render an image very quick.
