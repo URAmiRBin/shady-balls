@@ -81,7 +81,7 @@ So each pixel knows its' position and it's material and the shader runs on each 
 ## TODO
 - [x] What are shaders
 - [x] Shader example reference
-- [ ] Shader example visualization
+- [x] Shader example visualization
 - [x] What are materials
 - [ ] How shaders work in Unity
 - [ ] Shader types
